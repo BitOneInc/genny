@@ -2,14 +2,11 @@
 #  
 # Author:: Ian Moncrieffe (<ian@allhome620>)
 # Copyright:: Copyright (c) 2018 Ian Moncrieffe
-# License:: Apache License, Version 2.0
+# License:: MIT
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
+# Licensed under the MIT Licens.
 # you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-# http://www.apache.org/licenses/LICENSE-2.0
-#
+# 
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -45,12 +42,12 @@ __summary__ = """ Unique Identity number generator for your application's users,
 						  
 			  """
 			  
-__uri__ = "https://github.com/centry/genny/"
+__uri__ = "https://github.com/BitOneInc/genny/"
 
-__version__ = "2.3.6"
+__version__ = "1.0"
 
-__author__ = "CentrySoft developers"
-__email__ = "centryplan@outlook.com"
+__author__ = "BitOneInc."
+__email__ = "dev.bitone@outlook.com"
 
-__license__ = "Apache License, Version 2.0"
-__copyright__ = "Copyright 2018-2020 {0}".format(__author__)
+__license__ = "MIT"
+__copyright__ = "Copyright 2019-2020 {0}".format(__author__)
